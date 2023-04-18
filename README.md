@@ -42,3 +42,6 @@ If you have any questions about this project, please contact me via:
 
 - Email: yuhe.liang@outlook.com
 - GitHub: https://github.com/Wallacethewonderer
+
+## Link of the video
+[Link of the video](https://drive.google.com/file/d/1cJq5d6002z_J0NGpYCKozcZLvbQojpRv/view)
